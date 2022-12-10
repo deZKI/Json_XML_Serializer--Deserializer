@@ -1,0 +1,10 @@
+
+[
+  {"firstName":"Вася","lastName":"Пупкин","address":{"countryCode":7,"city":"Н","street":"Бассейная"}},
+  {"firstName":"Коля","lastName":"Пупкин","address":{"countryCode":7,"city":"Н","street":"Бассейная"}},
+  {"firstName":"Петя","lastName":"Пупкин","address":{"countryCode":7,"city":"Н","street":"Бассейная"}},
+  {"firstName":"Игорь","lastName":"Пупкин","address":{"countryCode":7,"city":"Н","street":"Бассейная"}},
+  {"firstName":"Иван","lastName":"Пупкин","address":{"countryCode":7,"city":"Н","street":"Бассейная"}},
+  {"firstName":"Слава","lastName":"Пупкин","address":{"countryCode":7,"city":"Н","street":"Бассейная"}}
+]
+
